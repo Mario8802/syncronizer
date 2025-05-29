@@ -12,4 +12,4 @@ A Python tool that synchronizes a source folder with a replica folder.
 ## 🧪 Usage
 
 ```bash
-python sync.py <source_folder> <replica_folder> <sync_interval> <log_file>
+python sync.py <source_folder> <replica_folder> <sync_interval_seconds> <log_file>

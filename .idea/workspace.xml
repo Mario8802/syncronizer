@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f38267b-86c9-473a-84f7-fa0279f25e8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/syncronizer/sync.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syncronizer" beforeDir="false" afterPath="$PROJECT_DIR$/syncronizer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syncronizer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/syncronizer/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0f38267b-86c9-473a-84f7-fa0279f25e8e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/syncronizer" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -69,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748459756267</updated>
       <workItem from="1748459760270" duration="1786000" />
-      <workItem from="1748553234076" duration="1532000" />
+      <workItem from="1748553234076" duration="1839000" />
     </task>
     <servers />
   </component>
