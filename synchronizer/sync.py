@@ -46,7 +46,6 @@ class MD5ComparisonStrategy:
             logger.warning(f"⚠ Failed to compare files: {file1} and {file2} due to error: {e}")
             return True  # Treat as different if comparison fails
 
-
     @staticmethod
     def _calculate_md5(file_path: Path) -> str:
         # Efficiently compute md5 hash by reading file in chunks
